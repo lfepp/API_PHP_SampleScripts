@@ -2,7 +2,7 @@
 
 $API_ACCESS_KEY = 'VxRM54vaVCV_vYVbAqUw';
 
-$URL = 'https://api.pagerduty.com/abilities';
+$URL = 'https://api.pagerduty.com/addons';
 $session = curl_init();
 
 curl_setopt($session, CURLOPT_URL, $URL);

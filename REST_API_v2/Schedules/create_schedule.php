@@ -17,10 +17,8 @@ $PAYLOAD = array(
         'rotation_turn_length_seconds' => 86400,
         'users' => array(
           array(
-            'user' => array(
-              'id' => 'PXIJPJ6',
-              'type' => 'user'
-            )
+            'id' => 'PXIJPJ6',
+            'type' => 'user'
           )
         ),
         'restrictions' => array(
